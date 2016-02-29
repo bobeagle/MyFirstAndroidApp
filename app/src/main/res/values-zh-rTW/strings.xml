@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的第一個App</string>
+    <string name="button_send">發送</string>
+    <string name="edit_message">輸入</string>
+    <string name="title_activity_display_message">我的信息</string>
+</resources>
